@@ -1,7 +1,7 @@
 [![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk4N3ljd3podXM4OXY4ejJreTA1bnF1YjltazY5NmgxMTI4bGc1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DHRUV SUTHAR</h1>
 <h3 align="center">A passionate Full-Stack Web-developer from Chandigarh University,India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/kjETcOXKdbYLS">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsxYWZ4a2xpNmx3MjZucndzNnJ3bDU4YTljeWVvYWN2dXFjOHJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.webp">
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js), Spring Boot, Next,js**
 
 - 👯 I’m looking to collaborate on **Web3 PROJECTS**
