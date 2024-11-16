@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm DHRUV SUTHAR</h1>
 <h3 align="center">A passionate Full-Stack Web-developer from Chandigarh University,India</h3>
-![image-asset](https://github.com/user-attachments/assets/140f29fc-1424-43eb-9802-8090a781c633)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/17132041/file/original-6109f569c0571ca61d5b9b5f241de01e.gif">
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js), Spring Boot, Next,js**
 
